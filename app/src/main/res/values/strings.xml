@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="overview">Overview</string>
+    <string name="back">Back</string>
+    <string name="retry">Retry</string>
+    <string name="please_connect_to_internet">Please Connect to Internet</string>
+</resources>
